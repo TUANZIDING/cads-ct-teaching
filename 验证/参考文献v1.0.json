@@ -1,0 +1,290 @@
+[
+ {
+  "key": "xu2026",
+  "doi": "10.1038/s41467-026-78732-1",
+  "title": "CADS: a comprehensive anatomical dataset and segmentation for whole-body anatomy in computed tomography",
+  "year": 2026,
+  "authors": [
+   "Xu",
+   "Navarro",
+   "Fritsak"
+  ],
+  "container": "Nature Communications",
+  "volume": null,
+  "page": null,
+  "n_authors": 33,
+  "verified": "Crossref",
+  "note": "Article in Press, published 28 Oct 2026, CC BY 4.0"
+ },
+ {
+  "key": "xu2025arxiv",
+  "doi": "10.48550/arXiv.2507.22953",
+  "title": "CADS: A Comprehensive Anatomical Dataset and Segmentation for Whole-Body Anatomy in Computed Tomography",
+  "year": 2025,
+  "authors": [
+   "Xu",
+   "Navarro",
+   "Fritsak"
+  ],
+  "container": "arXiv preprint 2507.22953",
+  "volume": null,
+  "page": null,
+  "n_authors": 99,
+  "verified": "DataCite"
+ },
+ {
+  "key": "wasserthal2023",
+  "doi": "10.1148/ryai.230024",
+  "title": "TotalSegmentator: Robust Segmentation of 104 Anatomic Structures in CT Images",
+  "year": 2023,
+  "authors": [
+   "Wasserthal",
+   "Breit",
+   "Meyer"
+  ],
+  "container": "Radiology: Artificial Intelligence",
+  "volume": "5",
+  "page": "e230024",
+  "n_authors": 12,
+  "verified": "Crossref"
+ },
+ {
+  "key": "tsdata2023",
+  "doi": "10.5281/zenodo.10047292",
+  "title": "Dataset with segmentations of 117 important anatomical structures in 1228 CT images",
+  "year": 2023,
+  "authors": [
+   "Wasserthal"
+  ],
+  "container": "Zenodo (TotalSegmentator dataset v2.0.1)",
+  "volume": null,
+  "page": null,
+  "n_authors": 99,
+  "verified": "DataCite",
+  "etal": true
+ },
+ {
+  "key": "isensee2021",
+  "doi": "10.1038/s41592-020-01008-z",
+  "title": "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation",
+  "year": 2021,
+  "authors": [
+   "Isensee",
+   "Jaeger",
+   "Kohl"
+  ],
+  "container": "Nature Methods",
+  "volume": "18",
+  "page": "203-211",
+  "n_authors": 5,
+  "verified": "Crossref"
+ },
+ {
+  "key": "isensee2024",
+  "doi": "10.1007/978-3-031-72114-4_47",
+  "title": "nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation",
+  "year": 2024,
+  "authors": [
+   "Isensee",
+   "Wald",
+   "Ulrich"
+  ],
+  "container": "MICCAI 2024, Lecture Notes in Computer Science",
+  "volume": null,
+  "page": "488-498",
+  "n_authors": 7,
+  "verified": "Crossref"
+ },
+ {
+  "key": "amiranashvili2024",
+  "doi": "10.1016/j.media.2024.103099",
+  "title": "Learning continuous shape priors from sparse data with neural implicit functions",
+  "year": 2024,
+  "authors": [
+   "Amiranashvili",
+   "Lüdke",
+   "Li"
+  ],
+  "container": "Medical Image Analysis",
+  "volume": "94",
+  "page": "103099",
+  "n_authors": 5,
+  "verified": "Crossref"
+ },
+ {
+  "key": "fedorov2012",
+  "doi": "10.1016/j.mri.2012.05.001",
+  "title": "3D Slicer as an image computing platform for the Quantitative Imaging Network",
+  "year": 2012,
+  "authors": [
+   "Fedorov",
+   "Beichel",
+   "Kalpathy-Cramer"
+  ],
+  "container": "Magnetic Resonance Imaging",
+  "volume": "30",
+  "page": "1323-1341",
+  "n_authors": 15,
+  "verified": "Crossref"
+ },
+ {
+  "key": "podobnik2023",
+  "doi": "10.1002/mp.16197",
+  "title": "HaN‐Seg: The head and neck organ‐at‐risk CT and MR segmentation dataset",
+  "year": 2023,
+  "authors": [
+   "Podobnik",
+   "Strojan",
+   "Peterlin"
+  ],
+  "container": "Medical Physics",
+  "volume": "50",
+  "page": "1917-1927",
+  "n_authors": 5,
+  "verified": "Crossref"
+ },
+ {
+  "key": "koitka2024",
+  "doi": "10.1038/s41597-024-03337-6",
+  "title": "SAROS: A dataset for whole-body region and organ segmentation in CT imaging",
+  "year": 2024,
+  "authors": [
+   "Koitka",
+   "Baldini",
+   "Kroll"
+  ],
+  "container": "Scientific Data",
+  "volume": "11",
+  "page": "483",
+  "n_authors": 11,
+  "verified": "Crossref"
+ },
+ {
+  "key": "sekuboyina2021",
+  "doi": "10.1016/j.media.2021.102166",
+  "title": "VerSe: A Vertebrae labelling and segmentation benchmark for multi-detector CT images",
+  "year": 2021,
+  "authors": [
+   "Sekuboyina",
+   "Husseini",
+   "Bayat"
+  ],
+  "container": "Medical Image Analysis",
+  "volume": "73",
+  "page": "102166",
+  "n_authors": 69,
+  "verified": "Crossref"
+ },
+ {
+  "key": "clark2013",
+  "doi": "10.1007/s10278-013-9622-7",
+  "title": "The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository",
+  "year": 2013,
+  "authors": [
+   "Clark",
+   "Vendt",
+   "Smith"
+  ],
+  "container": "Journal of Digital Imaging",
+  "volume": "26",
+  "page": "1045-1057",
+  "n_authors": 12,
+  "verified": "Crossref"
+ },
+ {
+  "key": "mir2020",
+  "doi": "10.1016/j.radonc.2020.05.038",
+  "title": "Organ at risk delineation for radiation therapy clinical trials: Global Harmonization Group consensus guidelines",
+  "year": 2020,
+  "authors": [
+   "Mir",
+   "Kelly",
+   "Xiao"
+  ],
+  "container": "Radiotherapy and Oncology",
+  "volume": "150",
+  "page": "30-39",
+  "n_authors": 22,
+  "verified": "Crossref"
+ },
+ {
+  "key": "shi2022",
+  "doi": "10.1038/s41467-022-34257-x",
+  "title": "Deep learning empowered volume delineation of whole-body organs-at-risk for accelerated radiotherapy",
+  "year": 2022,
+  "authors": [
+   "Shi",
+   "Hu",
+   "Wu"
+  ],
+  "container": "Nature Communications",
+  "volume": "13",
+  "page": "6566",
+  "n_authors": 17,
+  "verified": "Crossref"
+ },
+ {
+  "key": "weston2019",
+  "doi": "10.1148/radiol.2018181432",
+  "title": "Automated Abdominal Segmentation of CT Scans for Body Composition Analysis Using Deep Learning",
+  "year": 2019,
+  "authors": [
+   "Weston",
+   "Korfiatis",
+   "Kline"
+  ],
+  "container": "Radiology",
+  "volume": "290",
+  "page": "669-679",
+  "n_authors": 9,
+  "verified": "Crossref"
+ },
+ {
+  "key": "mourtzakis2008",
+  "doi": "10.1139/H08-075",
+  "title": "A practical and precise approach to quantification of body composition in cancer patients using computed tomography images acquired during routine care",
+  "year": 2008,
+  "authors": [
+   "Mourtzakis",
+   "Prado",
+   "Lieffers"
+  ],
+  "container": "Applied Physiology, Nutrition, and Metabolism",
+  "volume": "33",
+  "page": "997-1006",
+  "n_authors": 6,
+  "verified": "Crossref"
+ },
+ {
+  "key": "prado2008",
+  "doi": "10.1016/S1470-2045(08)70153-0",
+  "title": "Prevalence and clinical implications of sarcopenic obesity in patients with solid tumours of the respiratory and gastrointestinal tracts: a population-based study",
+  "year": 2008,
+  "authors": [
+   "Prado",
+   "Lieffers",
+   "McCargar"
+  ],
+  "container": "The Lancet Oncology",
+  "volume": "9",
+  "page": "629-635",
+  "n_authors": 7,
+  "verified": "Crossref"
+ },
+ {
+  "key": "mitsiopoulos1998",
+  "doi": "10.1152/jappl.1998.85.1.115",
+  "title": "Cadaver validation of skeletal muscle measurement by magnetic resonance imaging and computerized tomography",
+  "year": 1998,
+  "authors": [
+   "Mitsiopoulos",
+   "Baumgartner",
+   "Heymsfield"
+  ],
+  "container": "Journal of Applied Physiology",
+  "volume": "85",
+  "page": "115-122",
+  "n_authors": 6,
+  "verified": "Crossref"
+ }
+]

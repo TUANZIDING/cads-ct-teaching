@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this teaching module, please cite it as below, and cite the original CADS paper (doi:10.1038/s41467-026-78732-1)."
+type: software
+title: "CADS 全身 CT 解剖分割 · 双语教学课件 / CADS Whole-body CT Anatomy Segmentation: A Bilingual Teaching Module"
+version: 1.0.0
+date-released: 2026-11-13
+authors:
+  - family-names: Ding
+    given-names: Haixiang
+    affiliation: "Affiliated Hospital of Jiangnan University; Soochow University"
+repository-code: "https://github.com/TUANZIDING/cads-ct-teaching"
+url: "https://tuanziding.github.io/cads-ct-teaching/"
+license: CC-BY-NC-4.0
+keywords:
+  - CADS
+  - whole-body CT
+  - anatomical segmentation
+  - nnU-Net
+  - radiotherapy organs at risk
+  - body composition
+  - medical education
+references:
+  - type: article
+    title: "CADS: a comprehensive anatomical dataset and segmentation for whole-body anatomy in computed tomography"
+    authors:
+      - family-names: Xu
+        given-names: Murong
+    journal: "Nature Communications"
+    year: 2026
+    doi: "10.1038/s41467-026-78732-1"

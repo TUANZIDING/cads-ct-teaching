@@ -1,0 +1,162 @@
+{
+ "source": "Xu et al. Nat Commun 2026 (Article in Press PDF, retrieved 2026-11-13)",
+ "doi": "10.1038/s41467-026-78732-1",
+ "claims": [
+  {
+   "n": 1,
+   "claim": "22,022 CT volumes; 40 sources; >100 centres; 16 countries; 2007–2024",
+   "location": "Abstract; Results \"CADS-dataset\"; Table 1 footnote",
+   "status": "checked against source text"
+  },
+  {
+   "n": 2,
+   "claim": "167 structures, head to knees; SNOMED-CT-referenced label space",
+   "location": "Abstract; Fig. 1 legend; Suppl. Table 1",
+   "status": "checked against source text"
+  },
+  {
+   "n": 3,
+   "claim": "4,695 (21%) volumes with partial annotations; ~79% none",
+   "location": "Results; Methods \"Dataset collection\"",
+   "status": "checked against source text"
+  },
+  {
+   "n": 4,
+   "claim": "18× scans and 60% more distinct targets vs prior collection [TotalSegmentator]",
+   "location": "Introduction",
+   "status": "checked against source text"
+  },
+  {
+   "n": 5,
+   "claim": "TotalSegmentator 1,203 vols/104 structures; NLST 7,172; CT-RATE 3,134; AbdomenCT-1K 1,062",
+   "location": "Results \"CADS-dataset\"; Table 1",
+   "status": "checked against source text"
+  },
+  {
+   "n": 6,
+   "claim": "484 head CTs (Istanbul Medipol, approval E-10840098-772.02-6841) and 586 triphasic abdominal CTs (TUM, 27/19 S-SR)",
+   "location": "Methods \"Ethics statement\"",
+   "status": "checked against source text"
+  },
+  {
+   "n": 7,
+   "claim": "RAS reorientation; 1.5 mm isotropic; affine simplification; face blur σ=5 voxels",
+   "location": "Methods \"Dataset collection and preprocessing\"",
+   "status": "checked against source text"
+  },
+  {
+   "n": 8,
+   "claim": "9 groups; 5 initial sources (TotalSegmentator 104 classes forming 5 of 9 groups; 10 RT OARs on VISCERAL; HaN-Seg; SimNIBS via ANTs; SAROS interpolated)",
+   "location": "Methods \"From partial annotations…\"",
+   "status": "checked against source text"
+  },
+  {
+   "n": 9,
+   "claim": "Shape QC: implicit-function auto-decoder; 90th-percentile Hausdorff; worst 10% withheld from Shape flavour",
+   "location": "Methods \"Shape-informed label quality control\"; \"Complementary model flavors\"",
+   "status": "checked against source text"
+  },
+  {
+   "n": 10,
+   "claim": "Flavours GT / Pseudo / Shape; Dice ranking on OOD (else ID) validation; ties at p<0.05 broken by HD95",
+   "location": "Methods \"Structure-wise flavor selection\"",
+   "status": "checked against source text"
+  },
+  {
+   "n": 11,
+   "claim": "nnU-Net v2.5.1 ResEnc-L; class-balanced sampling; C1–C5 in 905–3,255 volumes; liver/spleen/aorta >21,000",
+   "location": "Methods \"Class-balanced sampling…\"; Table 2",
+   "status": "checked against source text"
+  },
+  {
+   "n": 12,
+   "claim": "Mutual 117 targets: CADS 90.52% (95% CI 88.12–92.41; median 92.33) vs TotalSeg 88.12% (95% CI 85.18–90.48; median 90.13); higher in 71, 44 with p<0.05",
+   "location": "Results \"Anatomical precision…\"",
+   "status": "checked against source text"
+  },
+  {
+   "n": 13,
+   "claim": "All targets 85.87%; Fig. 4a table values (89.22/91.51, 81.78/83.90, 88.12/90.52; HD95 5.63/3.21, 10.70/7.60, 7.38/4.36; all-target 86.66/83.03/85.87, HD95 4.36/8.40/5.23)",
+   "location": "Results; Fig. 4a",
+   "status": "checked against source text"
+  },
+  {
+   "n": 14,
+   "claim": "Higher Dice in 15/18 datasets, lower HD95 in 16; mean +2.40 pp Dice, −3.96 mm HD95; BTCV-Cervix −42.21 mm, HaN-Seg −14.18 mm",
+   "location": "Results \"Cross-dataset generalization\"",
+   "status": "checked against source text"
+  },
+  {
+   "n": 15,
+   "claim": "Per-dataset Dice differences (BTCV-Cervix +18.63 … EMPIRE10 −6.49)",
+   "location": "Fig. 4b annotations",
+   "status": "checked against source text"
+  },
+  {
+   "n": 16,
+   "claim": "Buccal mucosa <1,000 scans and 30 GT; very small organs <0.5 mL (arytenoid); complex small glands",
+   "location": "Results",
+   "status": "checked against source text"
+  },
+  {
+   "n": 17,
+   "claim": "4,597 reviewed pairs, 3,002 retained; 72 pairs corrected across 9 structures; curated subset Dice 93.15%",
+   "location": "Results; Methods \"TotalSegmentator reference-label review\"",
+   "status": "checked against source text"
+  },
+  {
+   "n": 18,
+   "claim": "USZ cohort 2,864 CTs; 38 structures (28 shared + 10 CADS-only); brainstem +23.08, parotid L +19.40, R +21.02",
+   "location": "Results \"Real-world evaluation\"; Fig. 4c legend",
+   "status": "checked against source text"
+  },
+  {
+   "n": 19,
+   "claim": "Expert: radiation oncologist, 5.5 years; 3 cases around median; not a formal demonstration of clinical utility",
+   "location": "Results; Discussion",
+   "status": "checked against source text"
+  },
+  {
+   "n": 20,
+   "claim": "Six external cohorts, 1,160 CTs",
+   "location": "Methods \"Independent evaluation cohorts\"",
+   "status": "checked against source text"
+  },
+  {
+   "n": 21,
+   "claim": "Code release v1.0.3; reference weights release v1.0.0",
+   "location": "Code availability",
+   "status": "checked against source text"
+  },
+  {
+   "n": 22,
+   "claim": "Limitations: shape QC may filter atypical anatomy; single non-blinded reviewer; head-to-knees; brain/trachea/chiasm/rectum label issues; face anonymisation",
+   "location": "Discussion",
+   "status": "checked against source text"
+  },
+  {
+   "n": 23,
+   "claim": "Weight variants reference (customised, 21,277), research (CC BY-NC-SA 4.0, 21,124), open (CC BY-SA 4.0, 13,269), CADS-region T601–T613",
+   "location": "cads/LICENSE_MODEL and README, github.com/murong-xu/CADS (retrieved 2026-11-13)",
+   "status": "checked against source text"
+  },
+  {
+   "n": 24,
+   "claim": "~727 MB per task, ~7 GB all tasks; CPU 10+ min for chest+abdomen; Slicer 5.10.0/5.11.0; PyTorch 2.1.2–2.8.0; nnUNet==2.5.2",
+   "location": "README, github.com/murong-xu/SlicerCADSWholeBodyCTSeg (retrieved 2026-11-13)",
+   "status": "checked against source text"
+  },
+  {
+   "n": 25,
+   "claim": "Dataset licences per source; gated access; 1.92 TB",
+   "location": "huggingface.co/datasets/mrmrx/CADS-dataset (retrieved 2026-11-13)",
+   "status": "checked against source text"
+  },
+  {
+   "n": 26,
+   "claim": "L3 single-slice regional analysis predicted whole-body fat and fat-free mass (r = 0.86–0.94)",
+   "location": "Mourtzakis 2008 abstract (PubMed 18923576)",
+   "status": "checked against source text"
+  }
+ ]
+}
