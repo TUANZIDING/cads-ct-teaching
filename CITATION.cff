@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this teaching module, please cite it as below, and cite the original CADS paper (doi:10.1038/s41467-026-78732-1)."
 type: software
-title: "CADS 全身 CT 解剖分割 · 双语教学课件 / CADS Whole-body CT Anatomy Segmentation: A Bilingual Teaching Module"
-version: 1.0.0
+title: "CADS 全身 CT 交互解剖阅片 · 双语教学课件 / CADS Whole-body CT: Interactive Anatomy Viewer and Bilingual Teaching Module"
+version: 1.1.0
 date-released: 2026-11-13
 authors:
   - family-names: Ding

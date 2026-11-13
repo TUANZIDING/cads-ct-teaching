@@ -1,0 +1,118 @@
+totalsegmentator_class,中文名,English,Latin (TA2),system,side,备注 note
+adrenal_gland_left,左肾上腺,Adrenal gland (left),Glandula suprarenalis sinistra,endocrine,L,
+adrenal_gland_right,右肾上腺,Adrenal gland (right),Glandula suprarenalis dextra,endocrine,R,
+aorta,主动脉,Aorta,Aorta,cardiovascular,,"掩膜含升主动脉、主动脉弓与降主动脉 / ascending, arch and descending"
+atrial_appendage_left,左心耳,Atrial appendage (left),Auricula sinistra,cardiovascular,L,TotalSegmentator 只有左心耳 / left only
+autochthon_left,左背深肌,Deep (autochthonous) back muscles (left),Musculi dorsi proprii sinistri,muscular,L,以竖脊肌、横突棘肌为主的固有背肌群 / mainly erector spinae + transversospinales
+autochthon_right,右背深肌,Deep (autochthonous) back muscles (right),Musculi dorsi proprii dextri,muscular,R,以竖脊肌、横突棘肌为主的固有背肌群 / mainly erector spinae + transversospinales
+brachiocephalic_trunk,头臂干,Brachiocephalic trunk,Truncus brachiocephalicus,cardiovascular,,
+brachiocephalic_vein_left,左头臂静脉,Brachiocephalic vein (left),Vena brachiocephalica sinistra,cardiovascular,L,
+brachiocephalic_vein_right,右头臂静脉,Brachiocephalic vein (right),Vena brachiocephalica dextra,cardiovascular,R,
+brain,脑,Brain,Encephalon,nervous,,
+clavicula_left,左锁骨,Clavicle (left),Clavicula sinistra,skeletal,L,
+clavicula_right,右锁骨,Clavicle (right),Clavicula dextra,skeletal,R,
+colon,结肠,Colon,Colon,digestive,,
+common_carotid_artery_left,左颈总动脉,Common carotid artery (left),Arteria carotis communis sinistra,cardiovascular,L,
+common_carotid_artery_right,右颈总动脉,Common carotid artery (right),Arteria carotis communis dextra,cardiovascular,R,
+costal_cartilages,肋软骨,Costal cartilages,Cartilagines costales,skeletal,,双侧合为一类 / both sides one class
+duodenum,十二指肠,Duodenum,Duodenum,digestive,,
+esophagus,食管,Oesophagus,Oesophagus,digestive,,
+femur_left,左股骨,Femur (left),Femur sinistrum,skeletal,L,视野内为股骨近端 / proximal part in field
+femur_right,右股骨,Femur (right),Femur dextrum,skeletal,R,视野内为股骨近端 / proximal part in field
+gallbladder,胆囊,Gallbladder,Vesica biliaris,digestive,,TA1998 作 Vesica fellea
+gluteus_maximus_left,左臀大肌,Gluteus maximus (left),Musculus gluteus maximus sinister,muscular,L,
+gluteus_maximus_right,右臀大肌,Gluteus maximus (right),Musculus gluteus maximus dexter,muscular,R,
+gluteus_medius_left,左臀中肌,Gluteus medius (left),Musculus gluteus medius sinister,muscular,L,
+gluteus_medius_right,右臀中肌,Gluteus medius (right),Musculus gluteus medius dexter,muscular,R,
+gluteus_minimus_left,左臀小肌,Gluteus minimus (left),Musculus gluteus minimus sinister,muscular,L,
+gluteus_minimus_right,右臀小肌,Gluteus minimus (right),Musculus gluteus minimus dexter,muscular,R,
+heart,心,Heart,Cor,cardiovascular,,“心脏”为通用说法，规范名为“心” / standard Chinese term 心
+hip_left,左髋骨,Hip bone (left),Os coxae sinistrum,skeletal,L,髂骨、坐骨、耻骨合称 / ilium + ischium + pubis
+hip_right,右髋骨,Hip bone (right),Os coxae dextrum,skeletal,R,髂骨、坐骨、耻骨合称 / ilium + ischium + pubis
+humerus_left,左肱骨,Humerus (left),Humerus sinister,skeletal,L,
+humerus_right,右肱骨,Humerus (right),Humerus dexter,skeletal,R,
+iliac_artery_left,左髂总动脉,Common iliac artery (left),Arteria iliaca communis sinistra,cardiovascular,L,掩膜可向下延续到髂外动脉起始段 / may extend into external iliac
+iliac_artery_right,右髂总动脉,Common iliac artery (right),Arteria iliaca communis dextra,cardiovascular,R,掩膜可向下延续到髂外动脉起始段 / may extend into external iliac
+iliac_vena_left,左髂总静脉,Common iliac vein (left),Vena iliaca communis sinistra,cardiovascular,L,掩膜可向下延续到髂外静脉起始段 / may extend into external iliac
+iliac_vena_right,右髂总静脉,Common iliac vein (right),Vena iliaca communis dextra,cardiovascular,R,掩膜可向下延续到髂外静脉起始段 / may extend into external iliac
+iliopsoas_left,左髂腰肌,Iliopsoas (left),Musculus iliopsoas sinister,muscular,L,腰大肌 + 髂肌 / psoas major + iliacus
+iliopsoas_right,右髂腰肌,Iliopsoas (right),Musculus iliopsoas dexter,muscular,R,腰大肌 + 髂肌 / psoas major + iliacus
+inferior_vena_cava,下腔静脉,Inferior vena cava,Vena cava inferior,cardiovascular,,
+kidney_cyst_left,左肾囊肿,Kidney cyst (left),—,other,L,"病变而非解剖结构，无 TA 名 / lesion, no TA term"
+kidney_cyst_right,右肾囊肿,Kidney cyst (right),—,other,R,"病变而非解剖结构，无 TA 名 / lesion, no TA term"
+kidney_left,左肾,Kidney (left),Ren sinister,urinary,L,
+kidney_right,右肾,Kidney (right),Ren dexter,urinary,R,
+liver,肝,Liver,Hepar,digestive,,
+lung_lower_lobe_left,左肺下叶,Lower lobe of lung (left),Lobus inferior pulmonis sinistri,respiratory,L,
+lung_lower_lobe_right,右肺下叶,Lower lobe of lung (right),Lobus inferior pulmonis dextri,respiratory,R,
+lung_middle_lobe_right,右肺中叶,Middle lobe of right lung,Lobus medius pulmonis dextri,respiratory,R,
+lung_upper_lobe_left,左肺上叶,Upper lobe of lung (left),Lobus superior pulmonis sinistri,respiratory,L,
+lung_upper_lobe_right,右肺上叶,Upper lobe of lung (right),Lobus superior pulmonis dextri,respiratory,R,
+pancreas,胰,Pancreas,Pancreas,digestive,,“胰腺”为通用说法 / 胰 is the standard term
+portal_vein_and_splenic_vein,肝门静脉和脾静脉,Portal vein and splenic vein,Vena portae hepatis; Vena splenica,cardiovascular,,两条静脉合为一类 / one class
+prostate,前列腺,Prostate,Prostata,reproductive,,
+pulmonary_vein,肺静脉,Pulmonary veins,Venae pulmonales,cardiovascular,,
+rib_left_1,左第1肋,Left rib 1,Costa I sinistra,skeletal,L,
+rib_left_10,左第10肋,Left rib 10,Costa X sinistra,skeletal,L,
+rib_left_11,左第11肋,Left rib 11,Costa XI sinistra,skeletal,L,
+rib_left_12,左第12肋,Left rib 12,Costa XII sinistra,skeletal,L,
+rib_left_2,左第2肋,Left rib 2,Costa II sinistra,skeletal,L,
+rib_left_3,左第3肋,Left rib 3,Costa III sinistra,skeletal,L,
+rib_left_4,左第4肋,Left rib 4,Costa IV sinistra,skeletal,L,
+rib_left_5,左第5肋,Left rib 5,Costa V sinistra,skeletal,L,
+rib_left_6,左第6肋,Left rib 6,Costa VI sinistra,skeletal,L,
+rib_left_7,左第7肋,Left rib 7,Costa VII sinistra,skeletal,L,
+rib_left_8,左第8肋,Left rib 8,Costa VIII sinistra,skeletal,L,
+rib_left_9,左第9肋,Left rib 9,Costa IX sinistra,skeletal,L,
+rib_right_1,右第1肋,Right rib 1,Costa I dextra,skeletal,R,
+rib_right_10,右第10肋,Right rib 10,Costa X dextra,skeletal,R,
+rib_right_11,右第11肋,Right rib 11,Costa XI dextra,skeletal,R,
+rib_right_12,右第12肋,Right rib 12,Costa XII dextra,skeletal,R,
+rib_right_2,右第2肋,Right rib 2,Costa II dextra,skeletal,R,
+rib_right_3,右第3肋,Right rib 3,Costa III dextra,skeletal,R,
+rib_right_4,右第4肋,Right rib 4,Costa IV dextra,skeletal,R,
+rib_right_5,右第5肋,Right rib 5,Costa V dextra,skeletal,R,
+rib_right_6,右第6肋,Right rib 6,Costa VI dextra,skeletal,R,
+rib_right_7,右第7肋,Right rib 7,Costa VII dextra,skeletal,R,
+rib_right_8,右第8肋,Right rib 8,Costa VIII dextra,skeletal,R,
+rib_right_9,右第9肋,Right rib 9,Costa IX dextra,skeletal,R,
+sacrum,骶骨,Sacrum,Os sacrum,skeletal,,
+scapula_left,左肩胛骨,Scapula (left),Scapula sinistra,skeletal,L,
+scapula_right,右肩胛骨,Scapula (right),Scapula dextra,skeletal,R,
+skull,颅骨,Skull,Cranium,skeletal,,本例仅视野上缘少量 / only a sliver in field
+small_bowel,小肠,Small intestine,Intestinum tenue,digestive,,空肠 + 回肠 / jejunum + ileum
+spinal_cord,脊髓,Spinal cord,Medulla spinalis,nervous,,
+spleen,脾,Spleen,Splen,lymphatic,,
+sternum,胸骨,Sternum,Sternum,skeletal,,
+stomach,胃,Stomach,Gaster,digestive,,
+subclavian_artery_left,左锁骨下动脉,Subclavian artery (left),Arteria subclavia sinistra,cardiovascular,L,
+subclavian_artery_right,右锁骨下动脉,Subclavian artery (right),Arteria subclavia dextra,cardiovascular,R,
+superior_vena_cava,上腔静脉,Superior vena cava,Vena cava superior,cardiovascular,,
+thyroid_gland,甲状腺,Thyroid gland,Glandula thyroidea,endocrine,,
+trachea,气管,Trachea,Trachea,respiratory,,
+urinary_bladder,膀胱,Urinary bladder,Vesica urinaria,urinary,,
+vertebrae_C1,寰椎,C1 cervical vertebra,Atlas,skeletal,,
+vertebrae_C2,枢椎,C2 cervical vertebra,Axis,skeletal,,
+vertebrae_C3,第3颈椎,C3 cervical vertebra,Vertebra cervicalis III,skeletal,,
+vertebrae_C4,第4颈椎,C4 cervical vertebra,Vertebra cervicalis IV,skeletal,,
+vertebrae_C5,第5颈椎,C5 cervical vertebra,Vertebra cervicalis V,skeletal,,
+vertebrae_C6,第6颈椎,C6 cervical vertebra,Vertebra cervicalis VI,skeletal,,
+vertebrae_C7,第7颈椎（隆椎）,C7 cervical vertebra,Vertebra prominens (C VII),skeletal,,
+vertebrae_L1,第1腰椎,L1 lumbar vertebra,Vertebra lumbalis I,skeletal,,
+vertebrae_L2,第2腰椎,L2 lumbar vertebra,Vertebra lumbalis II,skeletal,,
+vertebrae_L3,第3腰椎,L3 lumbar vertebra,Vertebra lumbalis III,skeletal,,
+vertebrae_L4,第4腰椎,L4 lumbar vertebra,Vertebra lumbalis IV,skeletal,,
+vertebrae_L5,第5腰椎,L5 lumbar vertebra,Vertebra lumbalis V,skeletal,,
+vertebrae_S1,第1骶椎,S1 sacral vertebra,Vertebra sacralis I,skeletal,,"S1 是骶骨的一部分，TotalSegmentator 单列 / S1 is part of the sacrum, separate class in TotalSegmentator"
+vertebrae_T1,第1胸椎,T1 thoracic vertebra,Vertebra thoracica I,skeletal,,
+vertebrae_T10,第10胸椎,T10 thoracic vertebra,Vertebra thoracica X,skeletal,,
+vertebrae_T11,第11胸椎,T11 thoracic vertebra,Vertebra thoracica XI,skeletal,,
+vertebrae_T12,第12胸椎,T12 thoracic vertebra,Vertebra thoracica XII,skeletal,,
+vertebrae_T2,第2胸椎,T2 thoracic vertebra,Vertebra thoracica II,skeletal,,
+vertebrae_T3,第3胸椎,T3 thoracic vertebra,Vertebra thoracica III,skeletal,,
+vertebrae_T4,第4胸椎,T4 thoracic vertebra,Vertebra thoracica IV,skeletal,,
+vertebrae_T5,第5胸椎,T5 thoracic vertebra,Vertebra thoracica V,skeletal,,
+vertebrae_T6,第6胸椎,T6 thoracic vertebra,Vertebra thoracica VI,skeletal,,
+vertebrae_T7,第7胸椎,T7 thoracic vertebra,Vertebra thoracica VII,skeletal,,
+vertebrae_T8,第8胸椎,T8 thoracic vertebra,Vertebra thoracica VIII,skeletal,,
+vertebrae_T9,第9胸椎,T9 thoracic vertebra,Vertebra thoracica IX,skeletal,,
